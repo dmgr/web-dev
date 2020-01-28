@@ -1,5 +1,5 @@
 ---
-title: æternity - a blockchain for scalable, secure and decentralised æpps
+title: æternity - a blockchain for scalable, secure and decentralized æpps
 description: "æternity Blockchain : Lightning Smart Contracts, Turing-complete state channels, oracles"
 lang: en-US
 announcement: |
@@ -27,7 +27,7 @@ advantages:
 
 <Section id="header" type="hero">
 
-# A Blockchain for scalable,<br> secure and decentralised æpps
+# A Blockchain for scalable,<br> secure and decentralized æpps
 
 ::: slot buttons
 
